@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="intrebare">Question</string>
+    <string name="btn_adevarat">True</string>
+    <string name="btn_fals">False</string>
+
+    <string name="intrebare1">The Big Apple is a nickname given to Washington D.C in 1971.</string>
+    <string name="intrebare2">Muddy York is a nickname for New York in the Winter.</string>
+    <string name="intrebare3">Peanuts are not nuts!</string>
+    <string name="intrebare4">People may sneeze or cough while sleeping deeply.</string>
+    <string name="intrebare5">Copyrights depreciate over time.</string>
+    <string name="intrebare6">Emus can’t fly.</string>
+    <string name="intrebare7">Electrons move faster than the speed of light.</string>
+    <string name="intrebare8">There is no snow on Minecraft.</string>
+    <string name="intrebare9">Light travels in a straight line.</string>
+    <string name="intrebare10">The Mona Liza was stolen from the Louvre in 1911.</string>
+    <string name="intrebare11">All introverts are shy and socially anxious.</string>
+    <string name="intrebare12">Janet Jackson performed at halftime of Super Bowl LV.</string>
+    <string name="intrebare13">The Los Angeles Lakers won the 2020 NBA Championship.</string>
+    <string name="intrebare14">Hamilton the musical is the first Broadway show ever written about Hamilton.</string>
+    <string name="intrebare15">The film Moneyball is based on a true story.</string>
+    <string name="intrebare16">There are tools to help you monitor your competitor’s marketing efforts.</string>
+    <string name="intrebare17">Facebook is not as popular as it used to be, it’s losing its audiences.</string>
+    <string name="intrebare18">KPI stands for Key Performance Indicator.</string>
+    <string name="intrebare19">ASO stands for app store optimization.</string>
+    <string name="intrebare20">There are three rivers in Saudi Arabia.</string>
+    <string name="intrebare21">The Great Wall of China is visible from space.</string>
+    <string name="intrebare22">The Atlantic Ocean is the warmest in the world.</string>
+    <string name="intrebare23">When the Eiffel Tower was unveiled, the Parisian art community hated it.</string>
+    <string name="intrebare24">There are more ancient pyramids in Sudan than in Egypt.</string>
+    <string name="intrebare25">Prince Harry is taller than Prince William</string>
+    <string name="intrebare26">The star sign Aquarius is represented by a tiger</string>
+    <string name="intrebare27">Meryl Streep has won two Academy Awards</string>
+    <string name="intrebare28">Marrakesh is the capital of Morocco</string>
+    <string name="intrebare29">Idina Menzel sings let it go 20 times in Let It Go from Frozen</string>
+    <string name="intrebare30">Waterloo has the greatest number of tube platforms in London</string>
+    <string name="intrebare31">The unicorn is the national animal of Scotland</string>
+    <string name="intrebare32">There are 219 episodes of Friends</string>
+    <string name="intrebare33">Monaco is the smallest country in the world</string>
+
+    <string name="adevarat">Raspuns: corect!</string>
+    <string name="fals">Raspuns: gresit!</string>
+</resources>
